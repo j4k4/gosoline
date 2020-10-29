@@ -14,6 +14,7 @@ require (
 	github.com/aws/aws-xray-sdk-go v1.1.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/certifi/gocertifi v0.0.0-20180118203423-deb3ae2ef261 // indirect
+	github.com/confluentinc/confluent-kafka-go v1.4.2 // indirect
 	github.com/containerd/continuity v0.0.0-20190426062206-aaeac12a7ffc // indirect
 	github.com/denisenkom/go-mssqldb v0.0.0-20190313032549-041949b8d268 // indirect
 	github.com/docker/go-units v0.4.0 // indirect
@@ -60,6 +61,7 @@ require (
 	github.com/ory/dockertest v3.3.5+incompatible
 	github.com/ory/ladon v1.0.1
 	github.com/pkg/errors v0.9.1
+	github.com/segmentio/kafka-go v0.4.8
 	github.com/sha1sum/aws_signing_client v0.0.0-20170514202702-9088e4c7b34b
 	github.com/sirupsen/logrus v1.5.0 // indirect
 	github.com/spf13/cast v1.3.0
